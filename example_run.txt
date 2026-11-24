@@ -1,0 +1,6 @@
+Command: python market_maker.py --csv results/session.csv
+
+Synthetic session | 5,000 orders | seed 7 | fee 0.1 cents/share
+Strategy       Shares  End pos  Peak |pos|   Net P&L $   Max DD $
+symmetric       10465       -7          20       57.28       1.95
+inventory       13890       -4          20       51.38       0.97
